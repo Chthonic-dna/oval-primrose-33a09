@@ -10,7 +10,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
-title: আন্তঃবর্গীয়তাকে বোঝার এখনই সময়
+title: আন্তঃবর্গীয়তাকে বোঝার এখনই সময়-
 subtitle: তর্জমাঃ নন্দিতা অধিকারী ও ইরফানুর রহমান রাফিন
 ---
 ## Lorem ipsum
