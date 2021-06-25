@@ -11,7 +11,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
-title: আন্তঃবর্‌গ
+title: আন্ত
 ---
 ## Lorem ipsum
 
