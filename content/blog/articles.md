@@ -11,7 +11,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
-title: আন্তঃ বর্গীয়টা
+title: আন্তঃ বর্গীয়তা
 ---
 ## Lorem ipsum
 
