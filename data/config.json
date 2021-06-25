@@ -37,7 +37,7 @@
             },
             {
                 "label": "অন্যান্য",
-                "url": "/others/",
+                "url": "/blog//others/",
                 "style": "link",
                 "icon": "dribbble",
                 "new_window": false,
