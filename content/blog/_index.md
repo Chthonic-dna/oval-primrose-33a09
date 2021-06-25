@@ -1,6 +1,6 @@
 ---
-title: Blog
-subtitle: 'News, tips and highlights'
+title: কবিতা
+subtitle: 'কবিতার অনুবাদ'
 hide_title: false
 col_number: three
 seo:
