@@ -1,5 +1,4 @@
 ---
-title: আন্তঃবর্গীয়তাকে বোঝার এখনই সময়
 subtitle: lorem-ipsum
 date: '2021-06-25'
 thumb_image_alt: lorem-ipsum
