@@ -1,7 +1,6 @@
 ---
 date: '2021-05-15'
 image_alt: lorem-ipsum
-excerpt: lorem-ipsum
 seo:
   title: ''
   description: ''
