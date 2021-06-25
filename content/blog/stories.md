@@ -11,7 +11,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
-subtitle: তর্জমাঃ আবির আব
+subtitle: তর্জমাঃ আবির আবরাজ
 ---
 ## Lorem ipsum
 
