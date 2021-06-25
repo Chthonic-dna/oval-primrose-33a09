@@ -29,5 +29,5 @@ seo:
       value: images/12.jpg
       relativeUrl: true
 layout: blog
-title: তর্জমাস
+title: তর্জমাসমূহ
 ---
