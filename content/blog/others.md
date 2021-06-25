@@ -11,7 +11,6 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
-subtitle: তর্‌জমা
 ---
 ## Lorem ipsum
 
