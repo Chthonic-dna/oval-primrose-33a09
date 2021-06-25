@@ -30,11 +30,6 @@
                 "label": "প্রবন্ধ",
                 "url": "/about/",
                 "style": "link"
-            },
-            {
-                "url": "/contact/",
-                "style": "link",
-                "label": "অন্যান্য"
             }
         ],
         "logo_img": "images/Bread&Roses.jpg",
