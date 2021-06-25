@@ -1,7 +1,6 @@
 ---
 title: জেমস বাল্ডউইনের কাছে লেখা হান্না আরেন্টের চিঠি
 date: '2021-02-16'
-excerpt: lorem-ipsum
 seo:
   title: ''
   description: ''
