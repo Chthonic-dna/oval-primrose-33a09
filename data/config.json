@@ -27,11 +27,6 @@
                 "style": "link"
             },
             {
-                "label": "প্রবন্ধ",
-                "url": "/new-page/",
-                "style": "link"
-            },
-            {
                 "label": "নিবন্ধ",
                 "url": "/contact/",
                 "style": "link",
