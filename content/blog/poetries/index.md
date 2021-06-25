@@ -14,6 +14,9 @@ PHOTO: ‘They Were Just Children’, The New York Times, published on 28 May, 2
 ![](https://scontent.fdac55-1.fna.fbcdn.net/v/t1.6435-9/191592422\_177640267613984\_1356466434557991026\_n.jpg?\_nc_cat=105\&ccb=1-3&\_nc_sid=730e14&\_nc_ohc=E3N5xkSAI-8AX9owMkh&\_nc_oc=AQlkIiNta_JnIq\_\_bPd3eBRFmvyjFsviHtjigucQ2X0FeObCGFaTYGso5cIN116pd6o&\_nc_ht=scontent.fdac55-1.fna\&oh=b757685c23562c7e0f71d1368567cf56\&oe=60DBAA53)
 
 ৬৭ জন শিশু
+– আহলাম বিশারাত
+তর্জমাঃ ইরফানুর রহমান রাফিন
+৬৭ জন শিশু
 ৬৭টা বিনুনিবাঁধা লুফা
 ৬৭টা প্লাস্টিকের পানির বালতি
 ৬৭টা নীল ওয়াশটাব
