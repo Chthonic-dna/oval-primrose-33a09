@@ -42,7 +42,7 @@
             },
             {
                 "label": "অন্যান্য",
-                "url": "#",
+                "url": "/others/",
                 "style": "link",
                 "icon": "dribbble",
                 "new_window": false,
