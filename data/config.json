@@ -33,7 +33,8 @@
             },
             {
                 "url": "/contact/",
-                "style": "link"
+                "style": "link",
+                "label": "অন্যা"
             }
         ],
         "logo_img": "images/Bread&Roses.jpg",
