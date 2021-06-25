@@ -1,6 +1,6 @@
 ---
 title: ৬৭ জন শিশু – আহলাম বিশারাত
-date: '2021-05-25'
+date: '2021-05-29'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 excerpt: lorem-ipsum
