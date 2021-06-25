@@ -1,7 +1,6 @@
 ---
 title: 'যে-লোকটা তেরেসা তেরেসা বলে চেঁচাচ্ছিল — ইতালো কালভিনো '
 date: '2021-04-16'
-image_alt: lorem-ipsum
 excerpt: lorem-ipsum
 seo:
   title: ''
