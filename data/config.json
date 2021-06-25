@@ -12,11 +12,6 @@
                 "style": "link"
             },
             {
-                "label": "ছবিসমূহ",
-                "url": "/portfolio/",
-                "style": "link"
-            },
-            {
                 "url": "/blog//poetries/",
                 "style": "link",
                 "label": "কবিতা"
