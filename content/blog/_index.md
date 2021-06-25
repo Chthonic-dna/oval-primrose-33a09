@@ -29,5 +29,5 @@ seo:
       value: images/12.jpg
       relativeUrl: true
 layout: blog
-title: ত
+title: তর্জমা
 ---
