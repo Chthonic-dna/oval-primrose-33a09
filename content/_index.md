@@ -12,7 +12,7 @@ sections:
     type: section_grid
     title: Bread &Roses সম্পর্কিত
     col_number: three
-    is_numbered: true
+    is_numbered: false
     grid_items:
       - content: >
           ![](/\_static/app-assets/Writer%20Photo.jpg)
