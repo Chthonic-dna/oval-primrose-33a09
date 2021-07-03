@@ -15,7 +15,6 @@ sections:
   - section_id: services
     type: section_grid
     title: ব্রেড এন রোজেস সম্পর্কিত
-    subtitle: An optional subtitle of the section
     col_number: two
     is_numbered: true
     grid_items:
