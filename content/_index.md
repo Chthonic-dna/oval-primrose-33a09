@@ -41,7 +41,6 @@ sections:
   - section_id: latest-posts
     type: section_posts
     title: সম্প্রতি প্রকাশিত অনুবাদসমূহ
-    subtitle: An optional subtitle of the section
     posts_number: 3
     col_number: three
     actions:
