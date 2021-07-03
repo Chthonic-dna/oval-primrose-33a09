@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Hi, I''m Stackbit Exto Portfolio Theme.'
     content: |
-      # ***"সবার জন্য রুটি, আর হ্যাঁ, গোলাপও"***&#xA;&#xA;
+      # &#xA;&#xA;
     actions:
       - label: Let's talk
         url: /contact
