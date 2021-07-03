@@ -10,7 +10,7 @@ sections:
     actions: []
   - section_id: services
     type: section_grid
-    title: ব্রেড এন রোজেস সম্পর্কিত
+    title: Bread &Roses সম্পর্কিত
     col_number: two
     is_numbered: true
     grid_items:
