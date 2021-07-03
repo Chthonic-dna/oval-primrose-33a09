@@ -7,10 +7,7 @@ sections:
     title: 'Hi, I''m Stackbit Exto Portfolio Theme.'
     content: |
       # &#xA;&#xA;
-    actions:
-      - label: Let's talk
-        url: /contact
-        style: button
+    actions: []
   - section_id: services
     type: section_grid
     title: ব্রেড এন রোজেস সম্পর্কিত
