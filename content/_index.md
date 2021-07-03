@@ -14,7 +14,7 @@ sections:
         style: button
   - section_id: services
     type: section_grid
-    title: What We Do
+    title: ব্রেড এন রোজেস সম্পর্কিত
     subtitle: An optional subtitle of the section
     col_number: two
     is_numbered: true
