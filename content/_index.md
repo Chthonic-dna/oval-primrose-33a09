@@ -46,14 +46,7 @@ sections:
           এর পাশাপাশি বিমূর্ত, পরাবাস্তব ঘরানার শিল্পচর্চা করে থাকেন। এছাড়াও
           সাহিত্য, দর্শন, রাজনীতিসহ নানান বিষয়ে জানতে ও পড়তে আগ্রহী।
         title: আমাদের পরিচয়
-        actions:
-          - label: lorem-ipsum
-            url: '#'
-            style: link
-            icon: dribbble
-            new_window: false
-            no_follow: false
-            type: action
+        actions: []
       - title: আমাদের কথা
         content: >+
           Bread & Roses নামটা এসেছে হেলেন টডের (১৮৭০-১৯৫৩) একটা বক্তৃতা থেকে, যা
