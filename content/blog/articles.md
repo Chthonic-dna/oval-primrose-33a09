@@ -11,9 +11,15 @@ layout: post
 title: আন্তঃবর্গীয়তাকে বোঝার এখনই সময়/ কিম্বার্লে ক্রেনশ
 subtitle: তর্জমাঃ নন্দিতা অধিকারী ও ইরফানুর রহমান রাফিন
 ---
-PHOTO UN Women
 
-![](/\_static/app-assets/adorable-sloth.png)
+
+
+
+
+
+![](https://preview--oval-primrose-33a09.stackbit.dev/\_static/app-assets/adorable-sloth.png)
+
+###### PHOTO UN Women&#xA;
 
 কোন পরিভাষা হয়ে ওঠার আগে থেকেই আন্তঃবর্গীয়তার মধ্যে বেড়ে উঠেছি আমরা।
 
