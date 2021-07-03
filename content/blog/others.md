@@ -10,9 +10,10 @@ seo:
 layout: post
 subtitle: তর্জমাঃ ইরফানুর রহমান রাফিন
 ---
-PHOTO: Hannah Arendt’s letter to James Baldwin (Source - A tweet by Samantha Rose Hill)
+
 ![](https://pbs.twimg.com/media/C5uSn8vWAAAyu67.jpg:large)
 
+###### PHOTO: Hannah Arendt’s letter to James Baldwin (Source - A tweet by Samantha Rose Hill)&#xA;&#xA;
 
 ২১ নভেম্বর ১৯৬২
 
