@@ -7,7 +7,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: page
-title: Bread & Roses Team
+title: ব্রেড এন রোজেস টিম
 ---
 #### **প্রতিষ্ঠাতা সম্পাদক পরিচিতিঃ**&#xA;&#xA;![](https://preview--oval-primrose-33a09.stackbit.dev/\_static/app-assets/Writer%20Photo.jpg)
 
