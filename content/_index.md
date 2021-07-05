@@ -50,14 +50,7 @@ sections:
           https://www.facebook.com/theoriginalisunfaithfultothetranslation
       - title: lorem-ipsum
         image_alt: lorem-ipsum
-        actions:
-          - label: আরও পড়ুন
-            url: /aboutus/
-            style: link
-            icon: dribbble
-            new_window: false
-            no_follow: false
-            type: action
+        actions: []
         type: grid_item
   - section_id: latest-posts
     type: section_posts
