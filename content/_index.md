@@ -63,7 +63,7 @@ sections:
           - dolor sit amet
         actions:
           - label: আরও পড়ুন
-            url: '#'
+            url: /aboutus/
             style: link
             icon: dribbble
             new_window: false
