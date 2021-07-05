@@ -11,7 +11,7 @@ sections:
   - section_id: services
     type: section_grid
     title: Bread &Roses সম্পর্কিত
-    col_number: three
+    col_number: two
     is_numbered: false
     grid_items:
       - title: আমাদের কথা
