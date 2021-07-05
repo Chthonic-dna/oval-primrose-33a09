@@ -64,7 +64,7 @@ sections:
         actions:
           - label: আরও পড়ুন
             url: /aboutus/
-            style: icon
+            style: link
             icon: dribbble
             new_window: false
             no_follow: false
