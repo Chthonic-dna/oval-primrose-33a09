@@ -41,7 +41,7 @@
             },
             {
                 "label": "আমাদের পরিচয়",
-                "url": "#",
+                "url": "/aboutus",
                 "style": "link",
                 "icon": "dribbble",
                 "new_window": false,
