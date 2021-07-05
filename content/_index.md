@@ -62,7 +62,7 @@ sections:
 
           - dolor sit amet
         actions:
-          - label: আরও প
+          - label: আরও পড়ুন
             url: '#'
             style: link
             icon: dribbble
