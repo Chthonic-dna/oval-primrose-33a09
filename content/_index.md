@@ -48,10 +48,6 @@ sections:
 
 
           https://www.facebook.com/theoriginalisunfaithfultothetranslation
-      - title: lorem-ipsum
-        image_alt: lorem-ipsum
-        actions: []
-        type: grid_item
   - section_id: latest-posts
     type: section_posts
     title: সম্প্রতি অনুদিত লেখাপত্র
