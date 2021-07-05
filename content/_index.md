@@ -50,7 +50,7 @@ sections:
           https://www.facebook.com/theoriginalisunfaithfultothetranslation
   - section_id: latest-posts
     type: section_posts
-    title: সম্প্রতি অনুদিত লেখাপত্র
+    title: সম্প্রতি অদিত লেখাপত্র
     posts_number: 4
     col_number: three
     actions:
