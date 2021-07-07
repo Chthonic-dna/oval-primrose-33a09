@@ -11,6 +11,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+thumb_image: images/E2i0ijvWEAMRoUk.jpg
 ---
 
 ![](https://pbs.twimg.com/media/E2i0ijvWEAMRoUk.jpg)﻿
