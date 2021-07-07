@@ -1,5 +1,5 @@
 {
-    "title": "নিবন্ধসমূহ",
+    "title": "Bread & Roses",
     "color_scheme": "light",
     "accent_color": "pink",
     "header": {
@@ -18,7 +18,7 @@
             },
             {
                 "label": "গল্প",
-                "url": "/blog//stories/",
+                "url": "/blog//story/",
                 "style": "link"
             },
             {
