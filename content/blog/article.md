@@ -22,7 +22,7 @@ sections:
           - dolor sit amet
         actions:
           - label: পড়ুন
-            url: '#'
+            url: /
             style: link
             icon: dribbble
             new_window: false
