@@ -8,8 +8,11 @@ sections:
     is_numbered: false
     grid_items:
       - image_alt: lorem-ipsum
-        content: |
-          ##### যে-লোকটা তেরেসা তেরেসা বলে চেঁচাচ্ছিল / ইতালো কালভিনো&#xA;&#xA;
+        content: |+
+          ##### যে-লোকটা তেরেসা তেরেসা বলে চেঁচাচ্ছিল / ইতালো কালভিনো
+
+          ![](/\_static/app-assets/knowledgeable-velociraptor.jpg)
+
         actions:
           - label: পড়ে দেখুন
             url: /blog/story/post004
