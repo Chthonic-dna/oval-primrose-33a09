@@ -2,7 +2,6 @@
 title: জেমস বাল্ডউইনের কাছে লেখা হান্না আরেন্টের চিঠি
 subtitle: তর্জমাঃ ইরফানুর রহমান রাফিন
 date: '2021-07-07'
-thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
 seo:
   title: ''
@@ -11,6 +10,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+thumb_image: images/148858695_119007366810608_1325987084406991202_n.jpg
 ---
 
 ![](https://pbs.twimg.com/media/C5uSn8vWAAAyu67.jpg:large)﻿
