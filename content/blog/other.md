@@ -2,7 +2,7 @@
 title: অন্যান্য তর্জমা
 hide_title: false
 sections:
-  - title: lorem-ipsum
+  - title: lorem-ipsu
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: three
