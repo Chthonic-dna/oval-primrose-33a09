@@ -3,8 +3,6 @@ title: Bread & Roses
 hide_title: false
 sections:
   - type: section_hero
-    content: |
-      > সবার জন্য রুটি, আর হ্যাঁ, গোলাপও
     actions: []
     section_id: post
   - section_id: services
