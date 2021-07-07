@@ -8,8 +8,7 @@ sections:
     content: |
       # ![](/\_static/app-assets/marvelous-sun.jpg)&#xA;&#xA;
     actions: []
-  - section_id: lorem-ipsum
-    image_alt: lorem-ipsum
+  - image_alt: lorem-ipsum
     type: section_content
   - section_id: services
     type: section_grid
