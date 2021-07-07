@@ -8,8 +8,7 @@ sections:
     is_numbered: false
     grid_items: []
     type: section_grid
-  - title: lorem-ipsum
-    subtitle: lorem-ipsum
+  - subtitle: lorem-ipsum
     col_number: three
     is_numbered: false
     grid_items:
