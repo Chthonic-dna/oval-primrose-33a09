@@ -5,7 +5,9 @@ sections:
   - type: section_hero
     title: '"সবার জন্য রুটি, আর হ্যাঁ, গোলাপও"'
     content: |
-      # ![](/\_static/app-assets/violet-kale.jpg)&#xA;&#xA;
+      >
+      > সবার জন্য রুটি, আর হ্যাঁ, গোলাপও
+      >
     actions: []
     section_id: post
   - section_id: services
