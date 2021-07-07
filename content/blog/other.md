@@ -1,6 +1,6 @@
 ---
 title: অন্যান্য তর্জমা
-hide_title: true
+hide_title: false
 sections: []
 seo:
   title: ''
