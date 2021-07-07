@@ -2,7 +2,7 @@
 title: গল্পসমূহ
 hide_title: true
 sections:
-  - title: lorem-ipsum
+  - title: গল্পসমূহ
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: three
