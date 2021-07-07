@@ -52,7 +52,7 @@ sections:
   - section_id: latest-posts
     type: section_posts
     title: সম্প্রতি অনূদিত লেখাপত্র
-    posts_number: 4
+    posts_number: 3
     col_number: three
     actions:
       - label: পড়ে দেখুন
