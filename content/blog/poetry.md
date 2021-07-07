@@ -10,7 +10,7 @@ sections:
         content: |
           ##### ৬৭ জন শিশু / আহলাম বিশারাত&#xA;&#xA;
         actions:
-          - label: lorem-ipsum
+          - label: পড়ে দেখুন
             url: '#'
             style: link
             icon: dribbble
