@@ -17,7 +17,7 @@ sections:
         actions:
           - label: পড়ে দেখুন
             url: /blog/other/post002
-            style: link
+            style: button
             icon: dribbble
             new_window: false
             no_follow: false
