@@ -12,17 +12,8 @@ sections:
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      ![](/\_static/app-assets/182240770\_163616439016367\_4145981215253740323\_n.jpg)
     type: section_content
   - section_id: services
     type: section_grid
