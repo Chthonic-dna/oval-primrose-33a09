@@ -1,13 +1,13 @@
 ---
-title: Home
-hide_title: true
+title: Bread & Roses
+hide_title: false
 sections:
   - type: section_hero
-    title: '"সবার জন্য রুটি, আর হ্যাঁ, গোলাপও"'
-    content: |
-      # ![](/\_static/app-assets/violet-kale.jpg)&#xA;&#xA;
     actions: []
-    section_id: post
+    content: |+
+      ![](/\_static/app-assets/beige-europa.jpg)
+
+    section_id: services
   - section_id: services
     type: section_grid
     title: Bread &Roses সম্পর্কিত
