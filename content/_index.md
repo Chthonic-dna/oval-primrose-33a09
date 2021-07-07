@@ -7,6 +7,7 @@ sections:
     content: |
       # ![](/\_static/app-assets/violet-kale.jpg)&#xA;&#xA;
     actions: []
+    section_id: portfolio
   - section_id: services
     type: section_grid
     title: Bread &Roses সম্পর্কিত
