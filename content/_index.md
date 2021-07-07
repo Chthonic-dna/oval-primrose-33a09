@@ -3,7 +3,6 @@ title: Bread & Roses
 hide_title: false
 sections:
   - type: section_hero
-    title: '"সবার জন্য রুটি, আর হ্যাঁ, গোলাপও"'
     content: |
       >
       > সবার জন্য রুটি, আর হ্যাঁ, গোলাপও
