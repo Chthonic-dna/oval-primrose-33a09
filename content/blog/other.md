@@ -8,8 +8,7 @@ sections:
     grid_items: []
     type: section_grid
     section_id: latest-posts
-  - subtitle: lorem-ipsum
-    col_number: three
+  - col_number: three
     is_numbered: false
     grid_items:
       - title: lorem-ipsum
