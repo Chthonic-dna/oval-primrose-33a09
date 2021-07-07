@@ -4,9 +4,10 @@ hide_title: false
 sections:
   - type: section_hero
     content: |
-      >
       > সবার জন্য রুটি, আর হ্যাঁ, গোলাপও
       >
+      >
+      > ![](/_static/app-assets/smart-lavender.jpg)
     actions: []
     section_id: post
   - section_id: services
