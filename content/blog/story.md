@@ -3,7 +3,7 @@ title: গল্পসমূহ
 hide_title: true
 sections:
   - title: গল্পসমূহ
-    section_id: lorem-ipsum
+    section_id: latest-posts
     col_number: three
     is_numbered: false
     grid_items: []
