@@ -62,7 +62,7 @@
         "logo_img_alt": "Bread & Roses"
     },
     "footer": {
-        "content": " &copy Bread & Roses. All rights reserved. To donate us click  <a href=here</a>",
+        "content": " &copy Bread & Roses. All rights reserved. To donate us click  <a href=\"https://bread9roses.netlify.app/donateus/here</a>",
         "has_social": true,
         "social_links": [
             {
