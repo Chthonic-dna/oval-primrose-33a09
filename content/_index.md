@@ -8,11 +8,6 @@ sections:
     content: |
       # &#xA;&#xA;
     actions: []
-  - title: lorem-ipsum
-    image_alt: lorem-ipsum
-    content: >
-      ![](/\_static/app-assets/182240770\_163616439016367\_4145981215253740323\_n.jpg)
-    type: section_content
   - section_id: services
     type: section_grid
     title: Bread &Roses সম্পর্কিত
