@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: নিবন্ধসমূহ
 hide_title: true
 sections:
   - title: নিবন্ধসমূহ
