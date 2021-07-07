@@ -11,7 +11,7 @@ sections:
         content: |
           ##### যে-লোকটা তেরেসা তেরেসা বলে চেঁচাচ্ছিল / ইতালো কালভিনো&#xA;&#xA;
         actions:
-          - label: lorem-ipsum
+          - label: পড়ে দেখুন
             url: '#'
             style: link
             icon: dribbble
