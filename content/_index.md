@@ -4,7 +4,6 @@ hide_title: true
 sections:
   - type: section_hero
     actions: []
-    section_id: hero
     content: |+
       ![](/\_static/app-assets/beige-europa.jpg)
 
