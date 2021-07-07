@@ -1,6 +1,6 @@
 ---
 title: Bread & Roses
-hide_title: true
+hide_title: false
 sections:
   - type: section_hero
     title: '"সবার জন্য রুটি, আর হ্যাঁ, গোলাপও"'
