@@ -4,7 +4,6 @@ subtitle: তর্জমাঃ নন্দিতা অধিকারী ও 
 date: '2021-07-07'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
-excerpt: lorem-ipsum
 seo:
   title: ''
   description: ''
