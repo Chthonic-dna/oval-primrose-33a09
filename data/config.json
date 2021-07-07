@@ -106,7 +106,7 @@
         "links": [
             {
                 "label": "আমাদের অনুদান দিয়ে সহযোগিতা করতে চাইলে এখানে ক্লিক করুন",
-                "url": "#",
+                "url": "/",
                 "style": "link",
                 "icon": "dribbble",
                 "new_window": false,
