@@ -4,6 +4,7 @@ hide_title: true
 sections:
   - type: section_hero
     actions: []
+    section_id: hero
   - section_id: services
     type: section_grid
     title: Bread &Roses সম্পর্কিত
