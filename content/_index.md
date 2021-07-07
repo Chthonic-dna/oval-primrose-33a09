@@ -8,8 +8,7 @@ sections:
     content: |
       # &#xA;&#xA;
     actions: []
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
+  - section_id: lorem-ipsum
     content: |
       ![](/\_static/app-assets/marvelous-kale.jpg)
     actions: []
