@@ -8,8 +8,6 @@ sections:
     content: |
       # ![](/\_static/app-assets/marvelous-sun.jpg)&#xA;&#xA;
     actions: []
-  - image_alt: lorem-ipsum
-    type: section_content
   - section_id: services
     type: section_grid
     title: Bread &Roses সম্পর্কিত
