@@ -1,5 +1,5 @@
 ---
-title: Bread
+title: Bread & Roses
 hide_title: true
 sections:
   - type: section_hero
