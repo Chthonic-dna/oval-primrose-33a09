@@ -21,7 +21,7 @@ sections:
 
           - dolor sit amet
         actions:
-          - label: lorem-ipsum
+          - label: পড়ুন
             url: '#'
             style: link
             icon: dribbble
