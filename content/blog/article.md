@@ -23,7 +23,7 @@ sections:
         actions:
           - label: পড়ুন
             url: /article/post01
-            style: button
+            style: icon
             icon: dribbble
             new_window: false
             no_follow: false
