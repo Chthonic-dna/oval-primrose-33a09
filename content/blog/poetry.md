@@ -11,7 +11,7 @@ sections:
           ##### ৬৭ জন শিশু / আহলাম বিশারাত&#xA;&#xA;
         actions:
           - label: পড়ে দেখুন
-            url: /
+            url: /blog/poetry/post003
             style: link
             icon: dribbble
             new_window: false
