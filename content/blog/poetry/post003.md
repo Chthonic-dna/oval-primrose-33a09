@@ -1,6 +1,6 @@
 ---
 title: ৬৭ জন শিশু / আহলাম বিশারাত
-subtitle: lorem-ipsum
+subtitle: তর্জমাঃ ইরফানুর রহমান রাফিন
 date: '2021-07-07'
 thumb_image_alt: lorem-ipsum
 image_alt: lorem-ipsum
