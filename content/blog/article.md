@@ -10,7 +10,7 @@ sections:
       - title: আন্তঃবর্গীয়তাকে বোঝার এখনই সময়/ কিম্বার্লে ক্রেনশ
         image_alt: lorem-ipsum
         actions:
-          - label: পড়ুন
+          - label: প
             url: /article/post01
             style: icon
             icon: dribbble
