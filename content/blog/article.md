@@ -12,14 +12,7 @@ sections:
     is_numbered: false
     grid_items:
       - image_alt: lorem-ipsum
-        actions:
-          - label: আন্তঃবর্গীয়তাকে বোঝার এখনই সময়/ কিম্বার্লে ক্রেনশ
-            url: /article/post01
-            style: link
-            icon: dribbble
-            new_window: true
-            no_follow: false
-            type: action
+        actions: []
         type: grid_item
     type: section_grid
 seo:
