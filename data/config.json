@@ -3,40 +3,63 @@
     "color_scheme": "light",
     "accent_color": "pink",
     "header": {
-        "title": "Exto",
+        "title": "Bread & Roses",
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Home",
+                "label": "হোম",
                 "url": "/",
                 "style": "link"
             },
             {
-                "label": "Portfolio",
-                "url": "/portfolio/",
+                "url": "/blog//poetries/",
+                "style": "link",
+                "label": "কবিতা"
+            },
+            {
+                "label": "গল্প",
+                "url": "/blog//stories/",
                 "style": "link"
             },
             {
-                "label": "Blog",
-                "url": "/blog/",
-                "style": "link"
+                "label": "নিবন্ধ",
+                "url": "/blog//articles/",
+                "style": "link",
+                "icon": "dribbble",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide/",
-                "style": "link"
+                "label": "অন্যান্য",
+                "url": "/blog//others/",
+                "style": "link",
+                "icon": "dribbble",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
             },
             {
-                "label": "About",
-                "url": "/about/",
-                "style": "link"
+                "label": "আমাদের পরিচয়",
+                "url": "/aboutus/",
+                "style": "link",
+                "icon": "dribbble",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
             },
             {
-                "label": "Contact",
-                "url": "/contact/",
-                "style": "link"
+                "label": "অনুদান সম্পর্কিত",
+                "url": "/donateus/",
+                "style": "link",
+                "icon": "dribbble",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
             }
-        ]
+        ],
+        "logo_img": "images/Bread&Roses.jpg",
+        "logo_img_alt": "Bread & Roses"
     },
     "footer": {
         "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=exto&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
@@ -69,7 +92,17 @@
                 "style": "icon",
                 "icon": "linkedin",
                 "new_window": true
+            },
+            {
+                "label": "Facebook",
+                "url": "www.facebook.com",
+                "style": "icon",
+                "icon": "facebook",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
             }
         ]
-    }
+    },
+    "domain": "https://bread&roses.netlify.app"
 }

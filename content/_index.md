@@ -4,81 +4,62 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Stackbit Exto Portfolio Theme.'
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
-    actions:
-      - label: Let's talk
-        url: /contact
-        style: button
-  - section_id: latest-projects
-    type: section_portfolio
-    layout_style: mosaic
-    title: Recent Work
-    subtitle: An optional subtitle of the section
-    projects_number: 6
-    view_all_label: View All
-    view_all_url: portfolio
+    title: '"সবার জন্য রুটি, আর হ্যাঁ, গোলাপও"'
+    content: |
+      # &#xA;&#xA;
+    actions: []
+  - section_id: lorem-ipsum
+    image_alt: lorem-ipsum
+    content: |
+      ![](/\_static/app-assets/Untitled13.jpg)
+    type: section_content
   - section_id: services
     type: section_grid
-    title: What We Do
-    subtitle: An optional subtitle of the section
+    title: Bread &Roses সম্পর্কিত
     col_number: two
-    is_numbered: true
+    is_numbered: false
     grid_items:
-      - title: Service Title
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
-      - title: Service Title
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
-      - title: Service Title
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
-      - title: Service title
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-  - section_id: testimonials
-    type: section_testimonials
-    title: Testimonials
-    subtitle: An optional subtitle of the section
-    col_number: three
-    testimonials:
-      - author: Sean Salazar
-        avatar: images/sean_salazar.jpg
-        avatar_alt: Sean Salazar's photo
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla.
-      - author: Aubrey Hoover
-        avatar: images/aubrey_hoover.jpg
-        avatar_alt: Aubrey Hoover's photo
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - author: Deegan Wallace
-        avatar: images/deegan_wallace.jpg
-        avatar_alt: Deegan Wallace's photo
-        content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam.
+      - title: আমাদের কথা
+        content: >
+          Bread & Roses নামটা এসেছে হেলেন টডের (১৮৭০-১৯৫৩) একটা বক্তৃতা থেকে, যা
+          জেমস ওপেনহাইমকে (১৮৮২-১৯৩২) উৎসাহ যুগিয়েছিল ব্রেড অ্যান্ড রোজেস নামে
+          একটি কবিতা লিখতে। জেমস হেলেনের বক্তৃতা একটি লাইন সরাসরি নিয়েছিলেনঃ
+          "সবার জন্য রুটি, আর হ্যাঁ, গোলাপও"।
+
+          শুরুতে শুধু নিজের অনুবাদকর্মগুলো রাখার কথা ভেবেছিলাম। পরে ভাবলাম, একটা
+          ট্রান্সলেশন হাব বানানো যাক।
+
+          শিল্প, সাহিত্য, আইন, অর্থনীতি, ইতিহাস, দর্শন, সমাজতত্ত্ব, নৃবিজ্ঞান,
+          প্রত্নতত্ত্ব, রাজনীতিবিজ্ঞান যে-কোনো বিষয়ে মানসম্মত অনুদিত লেখাই ছাপাব
+          আমরা।
+
+
+          ইসলামের স্বর্ণযুগে দ্বিতীয় আব্বাসীয় খলিফা আবু জাফর আল-মনসুরের
+          (৭৫৪-৭৭৫) পৃষ্ঠপোষকতায় বাগদাদের বায়তুল হিকমায় যে-বিশাল অনুবাদযজ্ঞের
+          সূচনা হয়, তা প্রাচীন গ্রিসের জ্ঞানবিজ্ঞানকে আরবিতে রূপান্তরিত করার
+          মাধ্যমে বাঁচিয়ে রেখেছিল। সেই আরব অনুবাদকরা না থাকলে আমরা প্লেটো আর
+          ইউক্লিডের নামও জানতাম না, সম্ভবত ইওরোপে এনলাইটেনমেন্ট হত না। আমরা খুবই
+          ভিন্ন একটা পৃথিবীতে বাস করতাম।
+
+          আমরা সবার জন্য রুটি আর গোলাপ নিশ্চিত করার বুদ্ধিবৃত্তিক পাটাতন তৈরি
+          করাই আমাদের উদ্দেশ্য।
+      - title: যোগাযোগ
+        content: >
+          লেখা, অনুদান বা যেকোনো ব্যাপারে যোগাযোগের জন্য আমাদের ইমেইল
+          এ্যাড্রেসঃ  bread9roses@gmail.com
+
+
+          ফেসবুক পেজঃ  
+
+
+          https://www.facebook.com/theoriginalisunfaithfultothetranslation
   - section_id: latest-posts
     type: section_posts
-    title: Latest from the Blog
-    subtitle: An optional subtitle of the section
-    posts_number: 3
+    title: সম্প্রতি অনূদিত লেখাপত্র
+    posts_number: 4
     col_number: three
     actions:
-      - label: View Blog
+      - label: পড়ে দেখুন
         url: blog
         style: button
 seo:

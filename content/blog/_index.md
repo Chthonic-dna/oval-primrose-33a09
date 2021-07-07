@@ -1,6 +1,3 @@
----
-title: Blog
-subtitle:
 hide_title: false
 col_number: three
 seo:
@@ -30,4 +27,5 @@ seo:
       value: images/12.jpg
       relativeUrl: true
 layout: blog
+title: তর্জমাসমূহ
 ---
