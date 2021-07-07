@@ -5,10 +5,9 @@ sections:
   - type: section_hero
     actions: []
     section_id: hero
-    content: |
+    content: |+
       ![](/\_static/app-assets/beige-europa.jpg)
 
-      > সবার জন্য রুটি, আর হ্যাঁ, গোলাপও
   - section_id: services
     type: section_grid
     title: Bread &Roses সম্পর্কিত
