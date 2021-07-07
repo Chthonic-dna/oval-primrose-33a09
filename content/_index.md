@@ -4,7 +4,6 @@ hide_title: false
 sections:
   - type: section_hero
     actions: []
-    title: '"সবার জন্য রুটি, আর হ্যাঁ, গোলাপও"'
   - section_id: services
     type: section_grid
     title: Bread &Roses সম্পর্কিত
