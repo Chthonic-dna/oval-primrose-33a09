@@ -1,5 +1,5 @@
 ---
-title: অন্যান্য তর্জমা
+title: অন্যান্য সকল তর্জমা
 hide_title: true
 sections:
   - title: অন্যান্য তর্জমাসমূহ
