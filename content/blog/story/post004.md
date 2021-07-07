@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: যে-লোকটা তেরেসা তেরেসা বলে চেঁচাচ্ছিল — ইতালো কালভিনো
 subtitle: lorem-ipsum
 date: '2021-07-07'
 thumb_image_alt: lorem-ipsum
