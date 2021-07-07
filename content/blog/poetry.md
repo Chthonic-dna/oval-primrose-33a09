@@ -8,7 +8,9 @@ sections:
     grid_items:
       - image_alt: lorem-ipsum
         content: |
-          ##### ৬৭ জন শিশু / আহলাম বিশারাত&#xA;&#xA;
+          ##### ![](/\_static/app-assets/groovy-jupiter.jpg)
+
+          #### **৬৭ জন শিশু / আহলাম বিশারাত**
         actions:
           - label: পড়ে দেখুন
             url: /blog/poetry/post003

@@ -9,7 +9,9 @@ sections:
     grid_items:
       - image_alt: lorem-ipsum
         content: |
-          ##### যে-লোকটা তেরেসা তেরেসা বলে চেঁচাচ্ছিল / ইতালো কালভিনো&#xA;&#xA;
+          ![](/\_static/app-assets/unique-aluminum.jpg)
+
+          #### **যে-লোকটা তেরেসা তেরেসা বলে চেঁচাচ্ছিল / ইতালো কালভিনো**
         actions:
           - label: পড়ে দেখুন
             url: /blog/story/post004
