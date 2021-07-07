@@ -1,5 +1,5 @@
 ---
-title: তর্জমাসমূহ
+title: Blog
 subtitle:
 hide_title: false
 col_number: three
