@@ -12,7 +12,7 @@ sections:
         actions:
           - label: পড়ে দেখুন
             url: /article/post01
-            style: icon
+            style: button
             icon: dribbble
             new_window: false
             no_follow: false
