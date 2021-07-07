@@ -1,5 +1,5 @@
 ---
-title: কবিতা
+title: অনূদিত সকল কবিতা
 hide_title: true
 sections:
   - title: কবিতাসমূহ
