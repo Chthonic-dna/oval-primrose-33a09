@@ -12,17 +12,8 @@ sections:
     is_numbered: false
     grid_items:
       - image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: |
+          # জেমস বাল্ডউইনের কাছে লেখা হান্না আরেন্টের চিঠি
         actions: []
         type: grid_item
     type: section_grid
