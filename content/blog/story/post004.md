@@ -2,7 +2,6 @@
 title: যে-লোকটা তেরেসা তেরেসা বলে চেঁচাচ্ছিল / ইতালো কালভিনো
 subtitle: তর্জমাঃ আবির আবরাজ
 date: '2021-07-07'
-image_alt: lorem-ipsum
 seo:
   title: ''
   description: ''
