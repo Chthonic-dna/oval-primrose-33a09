@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: কবিতা
 hide_title: true
 sections: []
 seo:
