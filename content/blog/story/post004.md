@@ -11,6 +11,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+thumb_image: images/Italo-Calvino-i-Oslo_07-04-1961_Fotograf-Johan-Brun.jpg
 ---
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Italo-Calvino-i-Oslo\_07-04-1961\_Fotograf-Johan-Brun.jpg/390px-Italo-Calvino-i-Oslo\_07-04-1961\_Fotograf-Johan-Brun.jpg)﻿
