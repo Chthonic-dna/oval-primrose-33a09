@@ -28,7 +28,7 @@ sections:
           - dolor sit amet
         actions:
           - label: আন্তঃবর্গীয়তাকে বোঝার এখনই সময়/ কিম্বার্লে ক্রেনশ
-            url: '#'
+            url: /article/post
             style: link
             icon: dribbble
             new_window: false
