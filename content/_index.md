@@ -7,6 +7,7 @@ sections:
     content: |+
       ![](/\_static/app-assets/beige-europa.jpg)
 
+    section_id: services
   - section_id: services
     type: section_grid
     title: Bread &Roses সম্পর্কিত
