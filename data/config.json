@@ -1,5 +1,5 @@
 {
-    "title": "Stackbit Exto Theme",
+    "title": "নিবন্ধসমূহ",
     "color_scheme": "light",
     "accent_color": "pink",
     "header": {
@@ -12,7 +12,7 @@
                 "style": "link"
             },
             {
-                "url": "/blog//poetries/",
+                "url": "/blog//poetry/",
                 "style": "link",
                 "label": "কবিতা"
             },
@@ -23,7 +23,7 @@
             },
             {
                 "label": "নিবন্ধ",
-                "url": "/blog//articles/",
+                "url": "/blog//article/",
                 "style": "link",
                 "icon": "dribbble",
                 "new_window": false,
@@ -32,7 +32,7 @@
             },
             {
                 "label": "অন্যান্য",
-                "url": "/blog//others/",
+                "url": "/blog//other/",
                 "style": "link",
                 "icon": "dribbble",
                 "new_window": false,

@@ -11,7 +11,7 @@ sections:
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: |
-      ![](/\_static/app-assets/Untitled13.jpg)
+      ![](/\_static/app-assets/perpetual-onion.jpg)
     type: section_content
   - section_id: services
     type: section_grid
