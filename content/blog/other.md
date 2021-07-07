@@ -15,7 +15,7 @@ sections:
         content: |
           ##### জেমস বাল্ডউইনের কাছে লেখা হান্না আরেন্টের চিঠি
         actions:
-          - label: lorem-ipsum
+          - label: পড়ে দেখুন
             url: '#'
             style: link
             icon: dribbble
