@@ -7,6 +7,7 @@ sections:
     is_numbered: false
     grid_items: []
     type: section_grid
+    section_id: latest-posts
 seo:
   title: ''
   description: ''
