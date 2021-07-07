@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: '"সবার জন্য রুটি, আর হ্যাঁ, গোলাপও"'
     content: |
-      # &#xA;&#xA;
+      # ![](/\_static/app-assets/happy-lettuce.jpg)&#xA;&#xA;
     actions: []
   - section_id: lorem-ipsum
     image_alt: lorem-ipsum
