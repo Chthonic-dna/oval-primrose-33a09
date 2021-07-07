@@ -2,7 +2,7 @@
 title: কবিতা
 hide_title: true
 sections:
-  - title: lorem-ipsum
+  - title: কবিতাসমূহ
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: three
