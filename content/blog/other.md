@@ -13,7 +13,7 @@ sections:
     grid_items:
       - image_alt: lorem-ipsum
         content: |
-          # জেমস বাল্ডউইনের কাছে লেখা হান্না আরেন্টের চিঠি
+          ##### জেমস বাল্ডউইনের কাছে লেখা হান্না আরেন্টের চিঠি
         actions: []
         type: grid_item
     type: section_grid
