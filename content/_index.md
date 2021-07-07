@@ -8,11 +8,6 @@ sections:
     content: |
       # &#xA;&#xA;
     actions: []
-  - section_id: lorem-ipsum
-    content: |
-      ![](/\_static/app-assets/marvelous-kale.jpg)
-    actions: []
-    type: section_hero
   - section_id: services
     type: section_grid
     title: Bread &Roses সম্পর্কিত
