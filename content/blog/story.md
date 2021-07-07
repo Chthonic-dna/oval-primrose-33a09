@@ -1,5 +1,5 @@
 ---
-title: গল্পসমূহ
+title: গল্প
 hide_title: true
 sections:
   - title: গল্পসমূহ
