@@ -8,11 +8,10 @@ sections:
     is_numbered: false
     grid_items:
       - image_alt: lorem-ipsum
-        content: |+
+        content: |
           ![](/\_static/app-assets/unique-aluminum.jpg)
 
-          **যে-লোকটা তেরেসা তেরেসা বলে চেঁচাচ্ছিল / ইতালো কালভিনো**
-
+          ##### **যে-লোকটা তেরেসা তেরেসা বলে চেঁচাচ্ছিল / ইতালো কালভিনো**
         actions:
           - label: পড়ে দেখুন
             url: /blog/story/post004
