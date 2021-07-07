@@ -1,6 +1,6 @@
 ---
-title: কবিতা
-subtitle: 'কবিতার অনুবাদ'
+title: তর্জমাসমূহ
+subtitle:
 hide_title: false
 col_number: three
 seo:
