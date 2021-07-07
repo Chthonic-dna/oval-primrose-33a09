@@ -1,6 +1,6 @@
 ---
 title: অন্যান্য তর্জমা
-hide_title: false
+hide_title: true
 sections:
   - title: lorem-ipsum
     subtitle: lorem-ipsum
