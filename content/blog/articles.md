@@ -9,7 +9,6 @@ seo:
   type: stackbit_page_meta
 layout: post
 title: আন্তঃবর্গীয়তাকে বোঝার এখনই সময়/ কিম্বার্লে ক্রেনশ
-subtitle: তর্জমাঃ নন্দিতা অধিকারী ও ইরফানুর রহমান রাফিন
 ---
 
 
