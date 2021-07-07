@@ -1,6 +1,6 @@
 ---
 title: Bread & Roses
-hide_title: false
+hide_title: true
 sections:
   - type: section_hero
     actions: []
