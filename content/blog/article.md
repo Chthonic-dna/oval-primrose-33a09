@@ -1,5 +1,5 @@
 ---
-title: নিবন্ধসমূহ
+title: অনূদিত সকল নিবন্ধ
 hide_title: true
 sections:
   - title: নিবন্ধসমূহ
