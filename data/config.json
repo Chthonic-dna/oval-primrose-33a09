@@ -23,7 +23,7 @@
             },
             {
                 "label": "নিবন্ধ",
-                "url": "/blog//articles/",
+                "url": "/blog//article/",
                 "style": "link",
                 "icon": "dribbble",
                 "new_window": false,
