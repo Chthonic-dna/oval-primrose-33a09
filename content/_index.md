@@ -1,6 +1,6 @@
 ---
 title: Bread & Roses
-hide_title: false
+hide_title: true
 sections:
   - type: section_hero
     actions: []
@@ -8,6 +8,7 @@ sections:
       ![](/\_static/app-assets/beige-europa.jpg)
 
     section_id: services
+    title: '"সবার জন্য রুটি, আর হ্যাঁ, গোলাপও"'
   - section_id: services
     type: section_grid
     title: Bread &Roses সম্পর্কিত
