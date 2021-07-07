@@ -9,7 +9,14 @@ sections:
       - image_alt: lorem-ipsum
         content: |
           ##### ৬৭ জন শিশু / আহলাম বিশারাত&#xA;&#xA;
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            icon: dribbble
+            new_window: false
+            no_follow: false
+            type: action
         type: grid_item
     type: section_grid
     section_id: latest-posts
