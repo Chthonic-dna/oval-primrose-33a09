@@ -10,6 +10,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+thumb_image: images/186472525_169091201802224_3033891344309941816_n.png
 ---
 
 ![](https://preview--oval-primrose-33a09.stackbit.dev/\_static/app-assets/adorable-sloth.png)﻿﻿
