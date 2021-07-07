@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: অন্যান্য তর্জমা
 hide_title: true
 sections: []
 seo:
