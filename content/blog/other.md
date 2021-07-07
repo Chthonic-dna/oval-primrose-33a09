@@ -3,7 +3,6 @@ title: অন্যান্য তর্জমা
 hide_title: true
 sections:
   - title: অন্যান্য তর্জমাসমূহ
-    subtitle: lorem-ipsum
     col_number: three
     is_numbered: false
     grid_items: []
