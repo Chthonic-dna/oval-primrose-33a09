@@ -2,8 +2,7 @@
 title: Home
 hide_title: true
 sections:
-  - section_id: hero
-    type: section_hero
+  - type: section_hero
     title: '"সবার জন্য রুটি, আর হ্যাঁ, গোলাপও"'
     content: |
       # &#xA;&#xA;
