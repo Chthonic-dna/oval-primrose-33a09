@@ -13,8 +13,7 @@ sections:
     col_number: three
     is_numbered: false
     grid_items:
-      - title: lorem-ipsum
-        image_alt: lorem-ipsum
+      - image_alt: lorem-ipsum
         actions:
           - label: আন্তঃবর্গীয়তাকে বোঝার এখনই সময়/ কিম্বার্লে ক্রেনশ
             url: /article/post01
