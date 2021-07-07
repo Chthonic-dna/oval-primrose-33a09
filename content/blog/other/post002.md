@@ -10,6 +10,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+thumb_image: images/148858695_119007366810608_1325987084406991202_n.jpg
 ---
 
 ![](https://pbs.twimg.com/media/C5uSn8vWAAAyu67.jpg:large)﻿
