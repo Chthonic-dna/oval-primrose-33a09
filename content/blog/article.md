@@ -11,7 +11,7 @@ sections:
         image_alt: lorem-ipsum
         actions:
           - label: পড়ে দেখুন
-            url: /article/post01
+            url: /articles/post01
             style: button
             icon: dribbble
             new_window: false
