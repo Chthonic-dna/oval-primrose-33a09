@@ -3,11 +3,18 @@ title: Bread & Roses
 hide_title: true
 sections:
   - type: section_hero
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon: dribbble
+        new_window: false
+        no_follow: false
+        type: action
     content: |+
       ![](/\_static/app-assets/beige-europa.jpg)
 
-    section_id: services
+    section_id: portfolio
     title: '"সবার জন্য রুটি, আর হ্যাঁ, গোলাপও"'
   - section_id: services
     type: section_grid
