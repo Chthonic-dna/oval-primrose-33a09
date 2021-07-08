@@ -1,5 +1,5 @@
 ---
-title: আমাদের পরিচয়য়
+title: আমাদের পরিচয়
 hide_title: true
 sections: []
 seo:
