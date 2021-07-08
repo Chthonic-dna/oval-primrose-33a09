@@ -23,6 +23,7 @@ sections:
             no_follow: false
             type: action
         type: grid_item
+        image: images/148858695_119007366810608_1325987084406991202_n.jpg
     type: section_grid
     section_id: latest-posts
 seo:
