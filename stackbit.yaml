@@ -163,6 +163,7 @@ models:
         type: image
         label: Background
         default: '1'
+        description: background
   blog:
     type: page
     urlPath: /blog
