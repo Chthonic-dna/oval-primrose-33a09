@@ -7,8 +7,6 @@ sections:
     content: |
       > সবার জন্য রুটি, আর হ্যাঁ, গোলাপও।
       > \- হেলেন টড
-      >
-      >
     title: '"সবার জন্য রুটি, আর হ্যাঁ, গোলাপও"'
     section_id: hero
   - section_id: services
