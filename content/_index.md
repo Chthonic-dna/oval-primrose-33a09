@@ -82,4 +82,5 @@ seo:
       value: images/exto_preview.png
       relativeUrl: true
 layout: advanced
+Background: images/182240770_163616439016367_4145981215253740323_n.jpg
 ---
