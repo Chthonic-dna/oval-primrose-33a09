@@ -19,17 +19,13 @@ sections:
         image: images/magnificent-artichoke.jpg
       - title: সহকারী সম্পাদক পরিচিতিঃ
         image_alt: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        content: >
+          তাসফিয়া তানজিম আহমেদ প্রমার জন্ম ২০০০ সালে চট্টগ্রামে। নবাব ফয়জুন্নেছা
+          সরকারি বালিকা উচ্চ বিদ্যালয় ও কুমিল্লা সরকারি মহিলা কলেজ থেকে যথাক্রমে
+          মাধ্যমিক ও উচ্চ মাধ্যমিক সম্পন্ন করে বর্তমানে ব্র্যাক বিশ্ববিদ্যালয়ে
+          অধ্যয়ন করছেন। প্রধান আগ্রহের বিষয় বিশুদ্ধ গণিত হলেও এর পাশাপাশি
+          বিমূর্ত, পরাবাস্তব ঘরানার শিল্পচর্চা করে থাকেন। এছাড়াও সাহিত্য, দর্শন,
+          রাজনীতিসহ নানান বিষয়ে জানতে ও পড়তে আগ্রহী।
         actions: []
         type: grid_item
         image: images/IMG_20210122_120006-min.jpg
