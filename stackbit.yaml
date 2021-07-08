@@ -162,6 +162,7 @@ models:
       - name: Background
         type: image
         label: Background
+        default: '1'
   blog:
     type: page
     urlPath: /blog
