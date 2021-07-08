@@ -11,6 +11,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 thumb_image: images/E2i0ijvWEAMRoUk.jpg
+image: images/oval-wallaby.jpg
 ---
 
 ![](https://pbs.twimg.com/media/E2i0ijvWEAMRoUk.jpg)﻿
