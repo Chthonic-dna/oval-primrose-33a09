@@ -4,7 +4,6 @@ hide_title: true
 sections:
   - title: ব্রেড এন রোজেস টিম
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
     col_number: three
     is_numbered: false
     grid_items: []
