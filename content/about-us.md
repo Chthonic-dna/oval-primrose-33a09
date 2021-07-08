@@ -32,6 +32,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
+        image: images/amazing-pine.jpg
     type: section_grid
 seo:
   title: ''
