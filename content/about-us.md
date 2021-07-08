@@ -17,7 +17,7 @@ sections:
         actions: []
         type: grid_item
         image: images/magnificent-artichoke.jpg
-      - title: সহকারী সম্পাদক পরিচিতি
+      - title: সহকারী সম্পাদক পরিচিতিঃ
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
