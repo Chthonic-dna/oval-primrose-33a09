@@ -13,13 +13,6 @@ layout: post
 thumb_image: images/E2i0ijvWEAMRoUk.jpg
 image: images/oval-wallaby.jpg
 ---
-
-![](https://pbs.twimg.com/media/E2i0ijvWEAMRoUk.jpg)﻿
-
-
-
-PHOTO: ‘They Were Just Children’, The New York Times, published on 28 May, 2021
-
 *অনুবাদকের নোটঃ ফিলিস্তিনি কবি আহলাম বিশারাত এই কবিতাটি লিখেছেন ২০২১এর ১০ মে থেকে গাজায় ইজরায়েলি বিমান হামলায় নিহত ৬৭ জন ফিলিস্তিনি শিশুকে নিয়ে; কবিতাটির কোনো নাম দেন নি বিশারাত। আরবি থেকে ইংরেজিতে অনুবাদ করেছেন এম লিনস্ক কোয়ালি, সেই ইংরেজি অনুবাদ থেকে বাংলায় ভাষান্তরিত করা হয়েছে। ইংরেজি অনুবাদটি ২০২১এর ২৮ মেতে আরবলিটে প্রকাশিত।*
 
 ৬৭ জন শিশু
