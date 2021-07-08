@@ -159,7 +159,7 @@ models:
         models:
           - stackbit_page_meta
         label: Seo
-      - name: ''
+      - name: Background
         type: image
   blog:
     type: page
