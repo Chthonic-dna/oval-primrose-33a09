@@ -8,8 +8,6 @@ sections:
     grid_items:
       - image_alt: lorem-ipsum
         content: |
-          ##### ![](/\_static/app-assets/groovy-jupiter.jpg)
-
           #### **৬৭ জন শিশু / আহলাম বিশারাত**
         actions:
           - label: পড়ে দেখুন
