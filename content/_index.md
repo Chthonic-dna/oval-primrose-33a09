@@ -4,9 +4,6 @@ hide_title: true
 sections:
   - type: section_hero
     actions: []
-    content: |+
-      ![](/\_static/app-assets/beige-europa.jpg)
-
     title: '"সবার জন্য রুটি, আর হ্যাঁ, গোলাপও"'
     section_id: hero
   - section_id: services
