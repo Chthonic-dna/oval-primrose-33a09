@@ -32,7 +32,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
-        image: images/amazing-pine.jpg
+        image: images/IMG_20210122_120006-min.jpg
     type: section_grid
 seo:
   title: ''
