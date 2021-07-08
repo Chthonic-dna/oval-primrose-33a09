@@ -21,6 +21,7 @@ sections:
             no_follow: false
             type: action
         type: grid_item
+        image: images/kind-anemone.jpg
     type: section_grid
 seo:
   title: ''
