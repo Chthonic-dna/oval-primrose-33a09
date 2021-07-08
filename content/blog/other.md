@@ -12,11 +12,7 @@ sections:
     is_numbered: false
     grid_items:
       - image_alt: lorem-ipsum
-        content: >
-          #####
-          ![](/\_static/app-assets/148858695\_119007366810608\_1325987084406991202\_n.jpg)
-
-
+        content: |
           #### **জেমস বাল্ডউইনের কাছে লেখা হান্না আরেন্টের চিঠি**&#xA;&#xA;
         actions:
           - label: পড়ে দেখুন
