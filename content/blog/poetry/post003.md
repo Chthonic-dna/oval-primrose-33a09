@@ -2,7 +2,9 @@
 title: ৬৭ জন শিশু / আহলাম বিশারাত
 subtitle: তর্জমাঃ ইরফানুর রহমান রাফিন
 date: '2021-07-07'
-image_alt: lorem-ipsum
+image_alt: >-
+  PHOTO: ‘They Were Just Children’, The New York Times, published on 28 May,
+  2021
 seo:
   title: ''
   description: ''
