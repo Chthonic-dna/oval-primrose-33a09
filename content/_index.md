@@ -3,7 +3,14 @@ title: Bread & Roses
 hide_title: true
 sections:
   - type: section_hero
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        icon: dribbble
+        new_window: false
+        no_follow: false
+        type: action
     content: |+
       ![](/\_static/app-assets/beige-europa.jpg)
 
