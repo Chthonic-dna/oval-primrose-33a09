@@ -10,6 +10,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 thumb_image: images/Italo-Calvino-i-Oslo_07-04-1961_Fotograf-Johan-Brun.jpg
+image: images/blue-primrose.jpg
 ---
 PHOTO: Den italienske forfatteren Italo Calvino (1923-1985) fotografert i Oslo 7. april 1961 av Dagbladets fotograf Johan Brun. This file is licensed under the Creative Commons Attribution-Share Alike 4.0 International license. Source Wikimedia Commons
 
