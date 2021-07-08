@@ -22,6 +22,7 @@ sections:
 
 
           #### **আন্তঃবর্গীয়তাকে বোঝার এখনই সময়/ কিম্বার্লে ক্রেনশ**
+        image: images/186472525_169091201802224_3033891344309941816_n.png
     type: section_grid
   - col_number: three
     is_numbered: false
