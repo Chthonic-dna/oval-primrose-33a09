@@ -161,6 +161,7 @@ models:
         label: Seo
       - name: Background
         type: image
+        label: Background
   blog:
     type: page
     urlPath: /blog
