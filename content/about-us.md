@@ -17,7 +17,7 @@ sections:
         actions: []
         type: grid_item
         image: images/magnificent-artichoke.jpg
-      - title: lorem-ipsum
+      - title: সহক
         image_alt: lorem-ipsum
         content: >-
           ## Lorem ipsum
