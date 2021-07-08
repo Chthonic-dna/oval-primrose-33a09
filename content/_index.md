@@ -8,6 +8,7 @@ sections:
       ![](/\_static/app-assets/beige-europa.jpg)
 
     title: '"সবার জন্য রুটি, আর হ্যাঁ, গোলাপও"'
+    section_id: latest-posts
   - section_id: services
     type: section_grid
     title: Bread &Roses সম্পর্কিত
