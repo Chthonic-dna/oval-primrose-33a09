@@ -11,12 +11,9 @@ seo:
 layout: post
 thumb_image: images/Italo-Calvino-i-Oslo_07-04-1961_Fotograf-Johan-Brun.jpg
 ---
-
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Italo-Calvino-i-Oslo\_07-04-1961\_Fotograf-Johan-Brun.jpg/390px-Italo-Calvino-i-Oslo\_07-04-1961\_Fotograf-Johan-Brun.jpg)﻿
-
-
-
 PHOTO: Den italienske forfatteren Italo Calvino (1923-1985) fotografert i Oslo 7. april 1961 av Dagbladets fotograf Johan Brun. This file is licensed under the Creative Commons Attribution-Share Alike 4.0 International license. Source Wikimedia Commons
+
+
 
 *সম্পাদকের নোটঃ গল্পটি ইতালি কালভিনোর "নাম্বার্স ইন দ্য ডার্ক এন্ড আদার স্টোরিজ" বই থেকে নেয়া। মূল ইতালিয়ান থেকে অনুবাদ করেছিলেন টিম পার্কস। বইটির প্রকাশকাল — ১৯৮৫।*
 
