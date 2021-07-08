@@ -14,9 +14,6 @@ seo:
 layout: post
 thumb_image: images/E2i0ijvWEAMRoUk.jpg
 image: images/oval-wallaby.jpg
-thumb_image_alt: >-
-  PHOTO: ‘They Were Just Children’, The New York Times, published on 28 May,
-  2021
 ---
 PHOTO: ‘They Were Just Children’, The New York Times, published on 28 May, 2021
 
