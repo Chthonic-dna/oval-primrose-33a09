@@ -7,7 +7,7 @@ sections:
     content: |+
       ![](/\_static/app-assets/beige-europa.jpg)
 
-    section_id: portfolio
+    section_id: hero
     title: '"সবার জন্য রুটি, আর হ্যাঁ, গোলাপও"'
   - section_id: services
     type: section_grid
