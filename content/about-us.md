@@ -2,7 +2,7 @@
 title: আমাদের পরিচয়
 hide_title: true
 sections:
-  - title: lorem-ipsum
+  - title: ব্রেড এন রোজেস টিম
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     col_number: three
