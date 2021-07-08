@@ -8,8 +8,6 @@ sections:
     grid_items:
       - image_alt: lorem-ipsum
         content: |
-          ##### ![](/\_static/app-assets/groovy-jupiter.jpg)
-
           #### **৬৭ জন শিশু / আহলাম বিশারাত**
         actions:
           - label: পড়ে দেখুন
@@ -20,6 +18,7 @@ sections:
             no_follow: false
             type: action
         type: grid_item
+        image: images/diligent-coriander.jpg
     type: section_grid
     section_id: latest-posts
 seo:

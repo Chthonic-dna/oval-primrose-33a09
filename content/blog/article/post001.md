@@ -11,13 +11,12 @@ seo:
   type: stackbit_page_meta
 layout: post
 thumb_image: images/186472525_169091201802224_3033891344309941816_n.png
+image: images/186472525_169091201802224_3033891344309941816_n.png
 ---
-
-![](https://preview--oval-primrose-33a09.stackbit.dev/\_static/app-assets/adorable-sloth.png)﻿﻿
-
+﻿﻿PHOTO UN Women
 
 
-###### PHOTO UN Women&#xA;&#xA;&#xA;
+
 
 *লেখক পরিচিতিঃ কিম্বার্লে ক্রেনশ দি আফ্রিকান আমেরিকান পলিসি ফোরামের নির্বাহী পরিচালক এবং কলাম্বিয়া বিশ্ববিদ্যালয়ে ও লস এঞ্জেলেসের ক্যালিফোর্নিয়া বিশ্ববিদ্যালয়ের একজন আইনের অধ্যাপক।*
 
