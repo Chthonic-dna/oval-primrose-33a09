@@ -8,6 +8,7 @@ seo:
   type: stackbit_page_meta
 layout: page
 title: ব্রেড এন রোজেস টিম
+image: images/blue-sage.jpg
 ---
 ###### **প্রতিষ্ঠাতা সম্পাদক পরিচিতিঃ**
 
