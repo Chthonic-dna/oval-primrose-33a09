@@ -6,16 +6,6 @@ sections:
     actions: []
     title: '"সবার জন্য রুটি, আর হ্যাঁ, গোলাপও"'
     section_id: hero
-  - title: lorem-ipsum
-    section_id: lorem-ipsum
-    subtitle: lorem-ipsum
-    col_number: three
-    testimonials:
-      - author: lorem-ipsum
-        avatar_alt: lorem-ipsum
-        content: lorem-ipsum
-        type: testimonial
-    type: section_testimonials
   - section_id: services
     type: section_grid
     title: Bread &Roses সম্পর্কিত
