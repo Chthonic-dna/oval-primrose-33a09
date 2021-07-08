@@ -11,6 +11,7 @@ seo:
   type: stackbit_page_meta
 layout: post
 thumb_image: images/186472525_169091201802224_3033891344309941816_n.png
+image: images/186472525_169091201802224_3033891344309941816_n.png
 ---
 ﻿﻿PHOTO UN Women
 
