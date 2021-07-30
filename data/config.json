@@ -115,6 +115,6 @@
             }
         ]
     },
-    "domain": "www.bread9roses.com",
-    "favicon": "images/perpetual-sunflower.jpg"
+    "favicon": "images/perpetual-sunflower.jpg",
+    "domain": "https//:bread9roses.netlify.app"
 }
