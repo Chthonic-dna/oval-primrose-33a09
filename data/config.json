@@ -115,5 +115,6 @@
             }
         ]
     },
-    "favicon": "images/perpetual-sunflower.jpg"
+    "favicon": "images/perpetual-sunflower.jpg",
+    "domain": "htp"
 }
