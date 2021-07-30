@@ -116,5 +116,5 @@
         ]
     },
     "favicon": "images/perpetual-sunflower.jpg",
-    "domain": "https"
+    "domain": "https:"
 }
